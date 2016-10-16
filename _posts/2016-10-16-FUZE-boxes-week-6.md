@@ -2,7 +2,7 @@
 title: FUZE boxes week 6
 layout: post
 author: rhys.evans
-permalink: /fuze-boxes-week-6/
+permalink: /x11rhysevans11x.github.io/
 source-id: 11Wyx-fySWz3nGfoOxc51kNNcX2bqJpgq8HI3gMuqLDc
 published: true
 ---
