@@ -1,0 +1,12 @@
+---
+title: A REVIEW OF THE YEAR
+layout: post
+author: rhys.evans
+permalink: /a-review-of-the-year/
+source-id: 1A7Uj3cE5dRo3FSR3eXeogdauHEatzimaQEleqLAZGIM
+published: true
+---
+A REVIEW OF THE YEAR
+
+WE STARTED WITH SPREADSHEETS AND MADE STEVES SECOND HAND GAMES. THEN IT WAS REPL WHICH WAS LITERAL JUST DEAD CONFUSING. THEN THERE WAS SCRATCH
+
